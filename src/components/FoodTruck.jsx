@@ -15,7 +15,7 @@ const FoodTruck = () =>{
 
                 <div className='card-item'>
                     <img src={foodTruckImage2} alt="" />
-                    <h4>Mysttik Masala</h4>
+                    <h4>Mysttik Masala666</h4>
                     <h5>Indian</h5>
                     <button>view Menu</button>
                 </div>
